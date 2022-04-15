@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daiane Carvalho
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning about python, SQL and Power BI
+- 🌱 I’m currently learning about Python, SQL and Power BI
 - 💞️ I’m looking to collaborate on data science and automation projects
 - 📫 Can to reach me by e-mail which is: daiane-carvalho@outlook.com.br
 
